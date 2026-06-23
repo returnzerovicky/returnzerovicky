@@ -4,8 +4,10 @@
 
 ```
 The Green-Haired Swordmaster of Code
-⛩️ Elite Full-Stack Developer | 🗡️ Open-Source Navigator
+⛩️ Full-Stack Navigator | 🗡️ Open-Source Captain
 ```
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Cutting+Through+Code+with+Precision;Building+Legendary+Applications;Sailing+the+Grand+Code+Line" alt="Typing Animation"/>
 
 </div>
 
@@ -13,7 +15,7 @@ The Green-Haired Swordmaster of Code
 
 <div align="center">
 
-![Zoro Banner](https://media.giphy.com/media/3o6ZsUJ44ffpnAVDaU/giphy.gif)
+![Zoro - The Swordmaster](https://media.giphy.com/media/3o6ZsUJ44ffpnAVDaU/giphy.gif)
 
 </div>
 
@@ -21,58 +23,32 @@ The Green-Haired Swordmaster of Code
 
 ## ⚓ **CAPTAIN'S LOG**
 
-Elite developer navigating the Grand Line of technology. Like Roronoa Zoro's precision, I cut through complex problems with clean, efficient code. Full-stack developer specializing in scalable architectures and elegant solutions.
+Full-stack developer navigating the Grand Line of technology. Cutting through complex problems with precision and crafting elegant, scalable solutions.
 
-- ⚡ Building high-performance web applications
-- 🔧 Crafting developer-friendly tools
-- 🌟 Contributing to open-source seas
-- 🧠 Continuous learner & code craftsman
+**Current Mission:**
+- ⚡ High-performance web apps
+- 🔧 Developer-friendly tools
+- 🌟 Open-source contributions
+- 🧠 Continuous learning
 
 ---
 
-## ⚔️ **WEAPONS & ARSENAL**
+## ⚔️ **WEAPONS ARSENAL**
 
-<div align="center">
-
-| Language | Frontend | Backend | Database |
-|:---:|:---:|:---:|:---:|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
-
-</div>
+![skillicons](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,python,typescript,javascript,docker,git,github,vscode&perline=6&theme=dark)
 
 ---
 
 ## 💎 **TREASURE COLLECTION**
 
-<table align="center">
-<tr>
-<td width="33%">
+<div align="center">
 
-### 🏴‍☠️ Featured Repos
+| 🏴‍☠️ Featured | 🌟 Latest | 📈 Active |
+|:-:|:-:|:-:|
+| Legendary projects across digital seas | Innovative solutions crafted precisely | High-performance & scalable systems |
+| [View All →](https://github.com/returnzerovicky?tab=repositories) |  |  |
 
-Explore my legendary projects on GitHub. Each repository represents a piece of my journey across the digital seas.
-
-[View All Treasures →](https://github.com/returnzerovicky?tab=repositories)
-
-</td>
-<td width="33%">
-
-### 🌟 Latest Projects
-
-Innovative solutions crafted with precision and passion. From backend fortresses to frontend archipelagos.
-
-</td>
-<td width="33%">
-
-### 📈 Active Repositories
-
-High-performance applications, scalable architectures, and open-source contributions that push boundaries.
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -97,25 +73,18 @@ High-performance applications, scalable architectures, and open-source contribut
 
 ## 🐍 **SEA SERPENT'S VOYAGE**
 
-![Snake Game](https://github.com/returnzerovicky/returnzerovicky/blob/output/github-contribution-grid-snake-dark.svg)
+![Contribution Snake](https://github.com/returnzerovicky/returnzerovicky/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
+[![Wave Footer](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer&textBg=false&reversal=false&fontColor=58a6ff)](https://github.com/returnzerovicky)
+
 <div align="center">
-
-## 🌊 **OCEAN'S END**
-
-```
-═══════════════════════════════════════════════════════════════
-                 "Nothing happened."
-         But your code will change the world.
-                      
-           🏴‍☠️ Fair winds and following seas 🏴‍☠️
-═══════════════════════════════════════════════════════════════
-```
 
 <a href="https://github.com/returnzerovicky">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
+**🏴‍☠️ Fair winds and following seas | Code well, Captain ⛵**
 
 </div>
