@@ -75,19 +75,18 @@ Hobbies    : Coding • Open Source • Music
   <img width="50%" src="https://github-profile-trophy.vercel.app/?username=returnzerovicky&theme=tokyonight&row=2&column=3&no-frame=true"/>
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=returnzerovicky&theme=tokyo-night&hide_border=true"/>
-</p>
-</div>
-<br> 
-<br>
 <h2 align="center">Thank You For Visiting 🙋🏻‍♂️</h2>
 
 <div align="center">
 
-<img src="assets/end.gif-ezgif-com-optimize.gif" width="500"/>
+<img src="./assets/end.gif-ezgif-com-optimize.gif" width="500" alt="Ending GIF"/>
 
 <br><br>
 
 <b>⭐ Thanks for stopping by!</b>
+
 <br>
+
+If you like my work, consider giving a ⭐ to my repositories and let's connect.
+
+</div>
