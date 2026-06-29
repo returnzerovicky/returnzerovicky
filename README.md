@@ -77,24 +77,15 @@ Hobbies    : Coding • Open Source • Music
 </div>
 <br> 
 <br>
-<div>
-    <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
-    <div align="center">
-        <img src="Assets/Bell.gif" width="500"/>
-    </div>
-</div>
-<br>
-
-<div>
-    <h2 align="center">Thank You For Visiting 🙋🏻‍♂️</h2>
-
-    <div align="center">
+<div align="center">
 
 <img src="assets/end.gif-ezgif-com-optimize.gif" width="500"/>
 
-<p><b>⭐ Thanks for stopping by!<br>
-If you like my work, consider giving a ⭐ to my repositories and let's connect.</b></p>
-
 </div>
 
-</div>
+<p align="center">
+
+<b>⭐ Thanks for stopping by!<br>
+If you like my work, consider giving a ⭐ to my repositories and let's connect.</b>
+
+</p>
