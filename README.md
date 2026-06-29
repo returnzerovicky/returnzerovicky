@@ -1,199 +1,105 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=FF3B3B&center=true&vCenter=true&width=1000&lines=Hello+Developers+👋;I'm+Banoth+Vikas;Full+Stack+Developer;AI+Enthusiast;Backend+Engineer;Open+Source+Learner;Always+Building+🚀" />
-
-<br>
-
-<h3>🚀 Full Stack Developer • AI Enthusiast • Backend Engineer</h3>
-
-<p>
-Building scalable applications, exploring AI, and solving real-world problems through code.
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-<a href="mailto:vicky.b1902@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/banoth-vikas-830b2428a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://returnzerovicky.github.io/My-Portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/vikasx/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/profile/returnzerovicky">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=returnzerovicky&style=for-the-badge&color=red"/>
-
-<img src="https://img.shields.io/github/followers/returnzerovicky?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/returnzerovicky?style=for-the-badge"/>
-
+    <a href="https://github.com/kawarimidoll/typograssy">
+        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=Hello%20Viewer%20&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=">
+    </a>
+   <p align="center"><a href="mailto:vicky.b1902@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Vicky%20B-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/banoth-vikas-830b2428a/" target="_blank"><img src="https://img.shields.io/badge/Banoth%20Vikas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
 </div>
 
 <br>
 
 <div align="center">
-
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/luffy-one-piece.gif" width="700"/>
-
+    <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 </div>
+```zsh
+banoth-vikas: ~/my_readme (main⚡)$ neofetch
+<img align="left" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/luffy-one-piece.gif" width="190px"/>
 
-<h2 align="center">💻 About Me</h2>
+```csharp
+Profile Ver : Build. Learn. Repeat.
+---------------------------------------------------------------
+Username        : Banoth Vikas
+WhoAmI          : B.Tech CSE Student | Full Stack Developer | AI Enthusiast
+College         : National Institute of Technology Silchar
+Location        : Hyderabad, Telangana, India
+Pronouns        : He/Him
 
-```bash
-banoth-vikas@github:~$ neofetch
+Languages       : Java, Python, C++, JavaScript, TypeScript, SQL
 
-──────────────────────────────────────────────
+Frontend        : React.js, HTML5, CSS3, Tailwind CSS
 
-👤 Name       : Banoth Vikas
-🎓 Education  : B.Tech in Computer Science & Engineering
-🏫 College    : National Institute of Technology Silchar
-📍 Location   : Hyderabad, Telangana, India
+Backend         : Node.js, Express.js, REST APIs, JWT Authentication
 
-💼 Role       : Full Stack Developer
-🤖 Interests  : Backend Engineering • AI • Distributed Systems
+Database        : MongoDB, MySQL
 
-💻 Languages  : Java • Python • JavaScript • TypeScript • C++ • SQL
+Tools           : Git, GitHub, Docker, Linux, VS Code, Postman
 
-⚙️ Tech Stack : React • Node.js • Express • MongoDB
-                Docker • Git • GitHub Actions
+Core CS         : Data Structures & Algorithms, DBMS,
+                  Operating Systems, OOP,
+                  Distributed Systems
 
-🌱 Currently Learning
-   ├── Microservices
-   ├── System Design
-   ├── Cloud Computing
-   └── Generative AI
+Currently Learning
+                : Microservices
+                  System Design
+                  Cloud Computing
+                  Generative AI
 
-🏆 Competitive Programming
-   ├── LeetCode
-   └── Codeforces
+Competitive Programming
+                : LeetCode
+                  Codeforces
 
-🍥 Anime      : Naruto • One Piece
+Portfolio       : returnzerovicky.github.io/My-Portfolio
 
-⚡ Fun Fact   : I enjoy turning ideas into scalable software.
+Interests       : Backend Engineering
+                  Artificial Intelligence
+                  Open Source
+                  Building Scalable Applications
+
+Favourite Anime: Naruto 🍥
+                  One Piece ☠️
+
+Hobbies         : Coding
+                  Building Projects
+                  Watching Anime
+                  Music
 ```
-<h2 align="center">🚀 Current Focus</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🔭 Building
-
-Scalable Full Stack Applications
-
-</td>
-
-<td align="center" width="50%">
-
-### 🤖 Exploring
-
-Artificial Intelligence & GenAI
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### ⚙️ Learning
-
-Microservices • System Design
-
-</td>
-
-<td align="center">
-
-### 🌱 Growing
-
-Open Source Contributions
-
-</td>
-</tr>
-</table>
-
-</div>
-
-```md
-<br>
-
-<h2 align="center">⚒️ Tech Stack</h2>
-
-<div align="center">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript,mysql" />
-
-<br><br>
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-
-<br><br>
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
-
-<br><br>
-
-### 🛠️ Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,githubactions" />
-
-</div>
 
 <br>
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=returnzerovicky&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnzerovicky&layout=compact&theme=github_dark&hide_border=true"/>
-
+<br>
+<div>
+    <h2 align="center"> 🔎Knowledge📖 </h2>
 </div>
-
+<div align = "center">
+    <p align = "justify">
+       Passionate about backend development, scalable systems, and AI. I have experience with full stack development and love working on challenging problems. My programming languages include Java, Python, JavaScript, and C/C++. I also enjoy learning new technologies and frameworks.
+        <br>
+    </p>
+    <p align = "center">
+         <a href="https://skillicons.dev">
+            <img style="margin: 10px" src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript,html,css,react,nodejs,express,mongodb&perline=8" alt="My Skills"> 
+        </a>
+    </p>
+</div>
+<br>
 <br>
 
-<div align="center">
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=returnzerovicky&theme=github-dark-blue&hide_border=true"/>
-
+<h2 align="center"> 📉 GitHub Stats</h2>
+<div> 
+    <p align="center">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=returnzerovicky&count_private=true&theme=neon&show_icons=true">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=returnzerovicky&theme=neon&date_format=%5BY%20%5DM%20j">
+        <a href="https://github-profile-trophy.vercel.app/?username=returnzerovicky&theme=radical&row=4&column=4">
+            <img width="50%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=returnzerovicky&theme=radical&row=4&column=4">
+        </a>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnzerovicky&theme=neon&layout=compact&langs_count=6" align="right" width="41%">
+        <img width="120%" alt="GraphStats" src="https://github-readme-activity-graph.vercel.app/graph?username=returnzerovicky&theme=radical">
+    </p>
+</div>
+<br> 
+<br>
+<div>
+    <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
+    <div align="center">
+        <img src="Assets/Bell.gif" width="500"/>
+    </div>
 </div>
 
-<br>
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=returnzerovicky&theme=github-dark&hide_border=true"/>
-
-</p>
-```
