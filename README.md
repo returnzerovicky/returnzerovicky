@@ -90,7 +90,3 @@ Hobbies    : Coding • Open Source • Music
 <b>⭐ Thanks for stopping by!</b>
 
 <br>
-
-If you like my work, consider giving a ⭐ to my repositories and let's connect.
-
-</div>
