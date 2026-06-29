@@ -83,7 +83,7 @@ Hobbies    : Coding • Open Source • Music
 
 <div align="center">
 
-<img src="./assets/end.gif-ezgif-com-optimize.gif" width="500" alt="Ending GIF"/>
+<img src="https://raw.githubusercontent.com/returnzerovicky/returnzerovicky/main/assets/end.gif-ezgif.com-optimize.gif" width="500"/>
 
 <br><br>
 
