@@ -7,11 +7,6 @@
 
 <br>
 
-<div align="center">
-    <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
-</div>
-```zsh
-```zsh
 <h2 align="center"> 👁️‍🗨️ About Me 👁️‍🗨️ </h2>
 
 ```zsh
