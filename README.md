@@ -6,7 +6,11 @@
 </div>
 
 <br>
+<div align="center">
+  <img src="assets/intro.gif.gif" width="700" alt="Naruto Intro">
+</div>
 
+<br>
 <h2 align="center"> 👁️‍🗨️ About Me 👁️‍🗨️ </h2>
 
 ```zsh
