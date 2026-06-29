@@ -12,6 +12,9 @@
 </div>
 ```zsh
 ```zsh
+<h2 align="center"> 👁️‍🗨️ About Me 👁️‍🗨️ </h2>
+
+```zsh
 banoth-vikas: ~/my_readme (main⚡)$ neofetch
 ```
 
@@ -19,42 +22,31 @@ banoth-vikas: ~/my_readme (main⚡)$ neofetch
 
 ```csharp
 Profile Ver : Build. Learn. Repeat.
----------------------------------------------------------------
-Username        : Banoth Vikas
-WhoAmI          : B.Tech CSE Student | Full Stack Developer | AI Enthusiast
-College         : National Institute of Technology Silchar
-Location        : Hyderabad, Telangana, India
+-----------------------------------------------------------
+Username   : Banoth Vikas
 
-Languages       : Java, Python, C++, JavaScript,
-                  TypeScript, SQL
+WhoAmI     : Full Stack Developer | AI Enthusiast
 
-Frontend        : React.js, HTML5, CSS3, Tailwind CSS
+Education  : B.Tech CSE @ NIT Silchar
 
-Backend         : Node.js, Express.js,
-                  REST APIs, JWT
+Location   : Hyderabad, India
 
-Database        : MongoDB, MySQL
+Languages  : Java • Python • C++ • JavaScript • SQL
 
-Tools           : Git, GitHub, Docker,
-                  Linux, VS Code
+Stack      : React • Node.js • Express • MongoDB
 
-Learning        : Microservices
-                  System Design
-                  Cloud Computing
-                  Generative AI
+Learning   : Microservices • System Design • GenAI
 
-Competitive     : LeetCode
-                  Codeforces
+Coding     : LeetCode • Codeforces
 
-Anime           : Naruto 🍥
-                  One Piece ☠️
+Anime      : Naruto 🍥 • One Piece ☠️
 
-Hobbies         : Coding
-                  Building Projects
-                  Music
+Hobbies    : Coding • Open Source • Music
 ```
 
-<br><br><br>
+<br>
+<br>
+<br>
 <div>
     <h2 align="center"> 🔎Knowledge📖 </h2>
 </div>
