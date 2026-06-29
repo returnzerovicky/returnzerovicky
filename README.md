@@ -160,37 +160,8 @@ Open Source Contributions
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
-
-<a href="https://github.com/returnzerovicky/Smart-Campus-Navigation-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=returnzerovicky&repo=Smart-Campus-Navigation-System&theme=github_dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/returnzerovicky/Distributed-E-Commerce-Backend-Microservices-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=returnzerovicky&repo=Distributed-E-Commerce-Backend-Microservices-&theme=github_dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/returnzerovicky/AI-Shopping-Recommendation-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=returnzerovicky&repo=AI-Shopping-Recommendation-System&theme=github_dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/returnzerovicky/Real-time-code-editor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=returnzerovicky&repo=Real-time-code-editor&theme=github_dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/returnzerovicky/URL-shortner">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=returnzerovicky&repo=URL-shortner&theme=github_dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/returnzerovicky/Resumate">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=returnzerovicky&repo=Resumate&theme=github_dark&hide_border=true"/>
-</a>
-
-</div>
-<br><br>
-
-### 🛠️ Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=returnzerovicky&repo=Smart-Campus-Navigation-System&theme=github_dark&hide_border=true" />
+</p>
 
 </div>
