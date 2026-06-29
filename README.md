@@ -135,3 +135,33 @@ Open Source Contributions
 </table>
 
 </div>
+
+<br>
+
+<h2 align="center">⚒️ Tech Stack</h2>
+
+<div align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript,mysql" />
+
+<br><br>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+
+<br><br>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+<br><br>
+
+### 🛠️ Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+
+</div>
