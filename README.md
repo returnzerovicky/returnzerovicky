@@ -136,6 +136,7 @@ Open Source Contributions
 
 </div>
 
+```md
 <br>
 
 <h2 align="center">⚒️ Tech Stack</h2>
@@ -156,12 +157,43 @@ Open Source Contributions
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" />
 
-<h2 align="center">🚀 Featured Projects</h2>
+<br><br>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=returnzerovicky&repo=Smart-Campus-Navigation-System&theme=github_dark&hide_border=true" />
-</p>
+### 🛠️ Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,githubactions" />
 
 </div>
+
+<br>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=returnzerovicky&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnzerovicky&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=returnzerovicky&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+<br>
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=returnzerovicky&theme=github-dark&hide_border=true"/>
+
+</p>
+```
