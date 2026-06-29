@@ -66,13 +66,17 @@ Hobbies    : Coding • Open Source • Music
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=returnzerovicky&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=returnzerovicky&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=returnzerovicky&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=returnzerovicky&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnzerovicky&layout=compact&theme=tokyonight&hide_border=true"/>
-  <img width="50%" src="https://github-profile-trophy.vercel.app/?username=returnzerovicky&theme=tokyonight&row=2&column=3&no-frame=true"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnzerovicky&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="52%" src="https://github-profile-trophy.vercel.app/?username=returnzerovicky&theme=tokyonight&no-frame=true&row=2&column=3" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=returnzerovicky&theme=tokyo-night&hide_border=true" />
 </p>
 
 <h2 align="center">Thank You For Visiting 🙋🏻‍♂️</h2>
