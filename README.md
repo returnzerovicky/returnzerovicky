@@ -11,7 +11,10 @@
     <h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
 </div>
 ```zsh
+```zsh
 banoth-vikas: ~/my_readme (main⚡)$ neofetch
+```
+
 <img align="left" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/luffy-one-piece.gif" width="190px"/>
 
 ```csharp
@@ -21,50 +24,37 @@ Username        : Banoth Vikas
 WhoAmI          : B.Tech CSE Student | Full Stack Developer | AI Enthusiast
 College         : National Institute of Technology Silchar
 Location        : Hyderabad, Telangana, India
-Pronouns        : He/Him
 
-Languages       : Java, Python, C++, JavaScript, TypeScript, SQL
+Languages       : Java, Python, C++, JavaScript,
+                  TypeScript, SQL
 
 Frontend        : React.js, HTML5, CSS3, Tailwind CSS
 
-Backend         : Node.js, Express.js, REST APIs, JWT Authentication
+Backend         : Node.js, Express.js,
+                  REST APIs, JWT
 
 Database        : MongoDB, MySQL
 
-Tools           : Git, GitHub, Docker, Linux, VS Code, Postman
+Tools           : Git, GitHub, Docker,
+                  Linux, VS Code
 
-Core CS         : Data Structures & Algorithms, DBMS,
-                  Operating Systems, OOP,
-                  Distributed Systems
-
-Currently Learning
-                : Microservices
+Learning        : Microservices
                   System Design
                   Cloud Computing
                   Generative AI
 
-Competitive Programming
-                : LeetCode
+Competitive     : LeetCode
                   Codeforces
 
-Portfolio       : returnzerovicky.github.io/My-Portfolio
-
-Interests       : Backend Engineering
-                  Artificial Intelligence
-                  Open Source
-                  Building Scalable Applications
-
-Favourite Anime: Naruto 🍥
+Anime           : Naruto 🍥
                   One Piece ☠️
 
 Hobbies         : Coding
                   Building Projects
-                  Watching Anime
                   Music
 ```
 
-<br>
-<br>
+<br><br><br>
 <div>
     <h2 align="center"> 🔎Knowledge📖 </h2>
 </div>
