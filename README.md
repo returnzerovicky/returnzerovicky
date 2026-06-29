@@ -17,7 +17,7 @@
 banoth-vikas: ~/my_readme (main⚡)$ neofetch
 ```
 
-<img align="left" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/luffy-one-piece.gif" width="190px"/>
+<img align="left" src="assets/luffy.gif" width="210px"/>
 
 ```csharp
 Profile Ver : Build. Learn. Repeat.
