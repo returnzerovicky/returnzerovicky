@@ -63,29 +63,31 @@ Hobbies    : Coding • Open Source • Music
 <br>
 <br>
 
-<h2 align="center"> 📉 GitHub Stats</h2>
-<div> 
-    <p align="center">
-        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=returnzerovicky&count_private=true&theme=neon&show_icons=true">
-        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=returnzerovicky&theme=neon&date_format=%5BY%20%5DM%20j">
-        <a href="https://github-profile-trophy.vercel.app/?username=returnzerovicky&theme=radical&row=4&column=4">
-            <img width="50%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=returnzerovicky&theme=radical&row=4&column=4">
-        </a>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnzerovicky&theme=neon&layout=compact&langs_count=6" align="right" width="41%">
-        <img width="120%" alt="GraphStats" src="https://github-readme-activity-graph.vercel.app/graph?username=returnzerovicky&theme=radical">
-    </p>
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=returnzerovicky&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=returnzerovicky&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=returnzerovicky&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="50%" src="https://github-profile-trophy.vercel.app/?username=returnzerovicky&theme=tokyonight&row=2&column=3&no-frame=true"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=returnzerovicky&theme=tokyo-night&hide_border=true"/>
+</p>
 </div>
 <br> 
 <br>
+<h2 align="center">Thank You For Visiting 🙋🏻‍♂️</h2>
+
 <div align="center">
 
 <img src="assets/end.gif-ezgif-com-optimize.gif" width="500"/>
 
-</div>
+<br><br>
 
-<p align="center">
-
-<b>⭐ Thanks for stopping by!<br>
-If you like my work, consider giving a ⭐ to my repositories and let's connect.</b>
-
-</p>
+<b>⭐ Thanks for stopping by!</b>
+<br>
