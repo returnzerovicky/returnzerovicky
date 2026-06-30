@@ -52,12 +52,12 @@ Hobbies    : Coding • Open Source • Music
 </div>
 <div align = "center">
     <p align = "justify">
-       Passionate about backend development, scalable systems, and AI. I have experience with full stack development and love working on challenging problems. My programming languages include Java, Python, JavaScript, and C/C++. I also enjoy learning new technologies and frameworks.
+       Passionate about backend development, scalable systems, and AI. I have experience with full stack development and love working on challenging problems. My programming languages include Python, JavaScript, and C/C++. I also enjoy learning new technologies and frameworks.
         <br>
     </p>
     <p align = "center">
          <a href="https://skillicons.dev">
-            <img style="margin: 10px" src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript,html,css,react,nodejs,express,mongodb&perline=8" alt="My Skills"> 
+            <img style="margin: 10px" src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,html,css,react,nodejs,express,mongodb&perline=8" alt="My Skills"> 
         </a>
     </p>
 </div>
