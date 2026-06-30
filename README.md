@@ -10,15 +10,13 @@
   <img src="assets/intro.gif.gif" width="700" alt="Naruto Intro">
 </div>
 
-**<table>
-<tr>
-<td width="220">
+<h2 align="center"> 👁️‍🗨️ About Me 👁️‍🗨️ </h2>
 
-<img src="assets/luffy.gif" width="220">
+```zsh
+banoth-vikas: ~/my_readme (main⚡)$ neofetch
+```
 
-</td>
-
-<td>
+<img align="left" src="assets/luffy.gif" width="190"/>
 
 ```csharp
 Profile Ver : Build. Learn. Repeat.
@@ -42,7 +40,10 @@ Coding     : LeetCode • Codeforces
 Anime      : Naruto 🍥 • One Piece ☠️
 
 Hobbies    : Coding • Open Source • Music
+```
 
+<br clear="left"/>
+<br>
 **
     <h2 align="center"> 🔎Knowledge📖 </h2>
 </div>
