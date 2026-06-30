@@ -72,7 +72,7 @@ Hobbies    : Coding • Open Source • Music
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=returnzerovicky&theme=tokyo-night&hide_border=true"/>
 </p>
-<h2 align="center">Thank You For Visiting </h2>
+<h2 align="center">Thank You For Visiting 🙋🏻‍♂️</h2>
 
 <div align="center">
 
