@@ -19,7 +19,7 @@ banoth-vikas: ~/my_readme (main)$ neofetch
 <img align="left"
      src="assets/luffy.gif"
      width="250"
-     height="445"
+     height="450"
      alt="Luffy">
 
 ```csharp
