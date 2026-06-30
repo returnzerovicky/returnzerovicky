@@ -10,10 +10,10 @@
   <img src="assets/intro.gif.gif" width="700" alt="Naruto Intro">
 </div>
 
-<h2 align="center"> 👁️‍🗨️ About Me 👁️‍🗨️ </h2>
+<h2 align="center">  About Me  </h2>
 
 ```zsh
-banoth-vikas: ~/my_readme (main⚡)$ neofetch
+banoth-vikas: ~/my_readme (main)$ neofetch
 ```
 
 <img align="left"
@@ -41,14 +41,14 @@ Learning   : Microservices • System Design • GenAI
 
 Coding     : LeetCode • Codeforces
 
-Anime      : Naruto 🍥 • One Piece ☠️
+Anime      : Naruto  • One Piece 
 
 Hobbies    : Coding • Open Source • Music
 ```
 
 <br clear="left"/>
 <br>
-    <h2 align="center"> 🔎Knowledge📖 </h2>
+    <h2 align="center"> Knowledge </h2>
 </div>
 <div align = "center">
     <p align = "justify">
@@ -61,7 +61,7 @@ Hobbies    : Coding • Open Source • Music
 <br>
 <br>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center"> GitHub Stats</h2>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=returnzerovicky&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
@@ -80,7 +80,7 @@ Hobbies    : Coding • Open Source • Music
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=returnzerovicky&theme=tokyonight"/>
 </p>
 
-<h2 align="center">Thank You For Visiting 🙋🏻‍♂️</h2>
+<h2 align="center">Thank You For Visiting </h2>
 
 <div align="center">
 
@@ -88,6 +88,6 @@ Hobbies    : Coding • Open Source • Music
 
 <br><br>
 
-<b>⭐ Thanks for stopping by!</b>
+<b> Thanks for stopping by!</b>
 
 <br>
