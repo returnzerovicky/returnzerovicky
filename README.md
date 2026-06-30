@@ -16,18 +16,9 @@
 ```zsh
 banoth-vikas: ~/my_readme (main⚡)$ neofetch
 ```
-<table>
-<tr>
-<td width="220">
-
-<img src="assets/luffy.gif"
-     width="220"
-     height="395"
-     style="object-fit:cover"/>
-
-</td>
-
-<td>
+<p align="left">
+<img src="assets/luffy.gif" width="210" align="left" />
+</p>
 
 ```csharp
 ...
