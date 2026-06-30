@@ -79,7 +79,3 @@ Hobbies    : Coding • Open Source • Music
 <img src="https://raw.githubusercontent.com/returnzerovicky/returnzerovicky/main/assets/end.gif-ezgif.com-optimize.gif" width="500"/>
 
 <br><br>
-
-<b> Thanks for stopping by!</b>
-
-<br>
