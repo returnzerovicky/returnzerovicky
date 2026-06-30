@@ -10,7 +10,7 @@
   <img src="assets/intro.gif.gif" width="700" alt="Naruto Intro">
 </div>
 
-<table>
+**<table>
 <tr>
 <td width="220">
 
@@ -43,7 +43,7 @@ Anime      : Naruto 🍥 • One Piece ☠️
 
 Hobbies    : Coding • Open Source • Music
 
-
+**
     <h2 align="center"> 🔎Knowledge📖 </h2>
 </div>
 <div align = "center">
