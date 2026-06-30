@@ -16,7 +16,11 @@
 banoth-vikas: ~/my_readme (main⚡)$ neofetch
 ```
 
-<img align="left" src="assets/luffy.gif" width="210" height="490" alt="Luffy">
+<img align="left"
+     src="assets/luffy.gif"
+     width="210"
+     height="560"
+     alt="Luffy">
 
 ```csharp
 Profile Ver : Build. Learn. Repeat.
