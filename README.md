@@ -48,7 +48,6 @@ Hobbies    : Coding • Open Source • Music
 
 <br clear="left"/>
 <br>
-**
     <h2 align="center"> 🔎Knowledge📖 </h2>
 </div>
 <div align = "center">
