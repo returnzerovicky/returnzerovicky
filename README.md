@@ -44,7 +44,7 @@ Anime      : Naruto 🍥 • One Piece ☠️
 
 Hobbies    : Coding • Open Source • Music
 ```
-
+<br clear="left"/>
 <br>
 <br>
 <br>
