@@ -16,9 +16,13 @@
 ```zsh
 banoth-vikas: ~/my_readme (main⚡)$ neofetch
 ```
-<p align="left">
-<img src="assets/luffy.gif" width="210" align="left" />
-</p>
+<img
+  align="left"
+  src="assets/luffy.gif"
+  width="220"
+  height="430"
+  style="object-fit: cover;"
+/>
 
 ```csharp
 ...
@@ -45,8 +49,6 @@ Anime      : Naruto 🍥 • One Piece ☠️
 Hobbies    : Coding • Open Source • Music
 ```
 <br clear="left"/>
-<br>
-<br>
 <br>
 <div>
     <h2 align="center"> 🔎Knowledge📖 </h2>
