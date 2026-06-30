@@ -7,22 +7,28 @@
 
 <br>
 <div align="center">
-  <img src="assets/intro.gif.gif" width="700" alt="Naruto Intro">
+  <img src="assets/intro.gif.gif" width="700" alt="Naruto Intro">    
 </div>
 
-<h2 align="center">  About Me  </h2>
+<h2 align="center"> About Me </h2>
 
 ```zsh
 banoth-vikas: ~/my_readme (main)$ neofetch
 ```
 
-<img align="left"
-     src="assets/luffy.gif"
-     width="260"
-     height="450"
-     alt="Luffy">
+<table>
+<tr>
 
-```csharp
+<td width="260" valign="top">
+
+<img src="assets/luffy.gif" width="260"/>
+
+</td>
+
+<td valign="top">
+
+<pre>
+
 Profile Ver : Build. Learn. Repeat.
 -----------------------------------------------------------
 Username   : Banoth Vikas
@@ -33,7 +39,7 @@ Education  : B.Tech CSE @ NIT Silchar
 
 Location   : Hyderabad, India
 
-Languages  : Java • Python • C++ • JavaScript • SQL
+Languages  : Python • C++ • JavaScript • SQL
 
 Stack      : React • Node.js • Express • MongoDB
 
@@ -41,12 +47,17 @@ Learning   : Microservices • System Design • GenAI
 
 Coding     : LeetCode • Codeforces
 
-Anime      : Naruto  • One Piece 
+Anime      : Naruto • One Piece
 
 Hobbies    : Coding • Open Source • Music
-```
 
-<br clear="left"/>
+</pre>
+
+</td>
+
+</tr>
+</table>
+
 <br>
     <h2 align="center"> Knowledge </h2>
 </div>
