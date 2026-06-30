@@ -16,12 +16,21 @@
 ```zsh
 banoth-vikas: ~/my_readme (main⚡)$ neofetch
 ```
+<table>
+<tr>
+<td width="220">
 
-<img align="left"
-     src="assets/luffy.gif"
-     style="width:230px;height:445px;object-fit:cover;"/>
+<img src="assets/luffy.gif"
+     width="220"
+     height="395"
+     style="object-fit:cover"/>
+
+</td>
+
+<td>
 
 ```csharp
+...
 Profile Ver : Build. Learn. Repeat.
 -----------------------------------------------------------
 Username   : Banoth Vikas
