@@ -10,22 +10,17 @@
   <img src="assets/intro.gif.gif" width="700" alt="Naruto Intro">
 </div>
 
-<br>
-<h2 align="center"> 👁️‍🗨️ About Me 👁️‍🗨️ </h2>
+<table>
+<tr>
+<td width="220">
 
-```zsh
-banoth-vikas: ~/my_readme (main⚡)$ neofetch
-```
-<img
-  align="left"
-  src="assets/luffy.gif"
-  width="220"
-  height="430"
-  style="object-fit: cover;"
-/>
+<img src="assets/luffy.gif" width="220">
+
+</td>
+
+<td>
 
 ```csharp
-...
 Profile Ver : Build. Learn. Repeat.
 -----------------------------------------------------------
 Username   : Banoth Vikas
@@ -47,10 +42,8 @@ Coding     : LeetCode • Codeforces
 Anime      : Naruto 🍥 • One Piece ☠️
 
 Hobbies    : Coding • Open Source • Music
-```
-<br clear="left"/>
-<br>
-<div>
+
+
     <h2 align="center"> 🔎Knowledge📖 </h2>
 </div>
 <div align = "center">
