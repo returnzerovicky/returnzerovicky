@@ -18,7 +18,7 @@ banoth-vikas: ~/my_readme (main⚡)$ neofetch
 
 <img align="left"
      src="assets/luffy.gif"
-     width="280"
+     width="240"
      height="560"
      alt="Luffy">
 
